@@ -1,1 +1,1 @@
-set file mode
+mirror
