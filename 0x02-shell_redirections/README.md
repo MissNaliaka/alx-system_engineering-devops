@@ -1,1 +1,1 @@
-A to Z
+No C or c
