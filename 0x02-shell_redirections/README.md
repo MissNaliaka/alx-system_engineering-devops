@@ -1,1 +1,1 @@
-Reverse input
+All users and their home directories
