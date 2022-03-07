@@ -1,1 +1,1 @@
-No C or c
+Reverse input
