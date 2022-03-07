@@ -1,1 +1,1 @@
-Please accept
+Please
