@@ -1,1 +1,1 @@
-prints all accessible combinations of two numbers
+Print a number with two decimal places, followed by a line
