@@ -1,1 +1,1 @@
-Addition of 128 with a value stored in environmental variable
+Prits the results of POWER divided by DIVIDE
