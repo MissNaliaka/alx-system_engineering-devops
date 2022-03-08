@@ -1,1 +1,1 @@
-encode and decode text using rot13 encryption
+Print every other line from the input starting from the first line
