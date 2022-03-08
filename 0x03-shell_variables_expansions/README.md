@@ -1,1 +1,1 @@
-Print every other line from the input starting from the first line
+Add two numbets stored in environment variables
