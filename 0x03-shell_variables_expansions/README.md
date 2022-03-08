@@ -1,1 +1,1 @@
-Convert from base 2 to base 10
+prints all accessible combinations of two numbers
