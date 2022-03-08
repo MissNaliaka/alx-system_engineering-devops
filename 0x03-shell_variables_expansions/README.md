@@ -1,1 +1,1 @@
-Creating local variables
+Creating global variable
