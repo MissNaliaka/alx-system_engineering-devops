@@ -1,1 +1,1 @@
-Print environmental variables
+Listing local and evironmental variables and functions
